@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Tuğba.  
+I am a Java Backend Developer. I also develop projects with Frontend. I am happy to work in this field.   
+I aim to increase my repositories over time by creating new projects with Spring Boot 🔭  
 
+### 📫 How to reach me: tuba.aydin94@gmail.com
+### Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,postgresql,postman)](https://skillicons.dev)
+
+### Social:
+[![My Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tugbaisleyen/)
 <!--
 **tugbaislyn/tugbaislyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
